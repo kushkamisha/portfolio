@@ -18,25 +18,25 @@ export default class Contact extends Component {
                                     <i className="icon-globe-outline" />
                                 </div>
                                 <div className="colorlib-text">
-                                    <p><a href="#">info@domain.com</a></p>
+                                    <p><a href="#">kushka.misha@gmail.com</a></p>
                                 </div>
                             </div>
-                            <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
+                            {/* <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
                                     <i className="icon-map" />
                                 </div>
                                 <div className="colorlib-text">
                                     <p>198 West 21th Street, Suite 721 New York NY 10016</p>
                                 </div>
-                            </div>
-                            <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
+                            </div> */}
+                            {/* <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
                                     <i className="icon-phone" />
                                 </div>
                                 <div className="colorlib-text">
                                     <p><a href="tel://">+123 456 7890</a></p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div> 

@@ -802,11 +802,72 @@ body.offcanvas {
     .progress-bar.color-5 span {
       color: #2fa499; }
   .progress-bar.color-6 {
-    background: #4054b2; }
+    background: #3572A5; }
     .progress-bar.color-6:after {
-      background: #4054b2; }
+      background: #3572A5; }
     .progress-bar.color-6 span {
-      color: #4054b2; }
+      color: #3572A5; }
+
+  .progress-bar.color-nodejs {
+    background: #98C33C; }
+    .progress-bar.color-nodejs:after {
+      background: #98C33C; }
+    .progress-bar.color-nodejs span {
+      color: #98C33C; }
+  .progress-bar.color-solidity {
+    background: #AA6746; }
+    .progress-bar.color-solidity:after {
+      background: #AA6746; }
+    .progress-bar.color-solidity span {
+      color: #AA6746; }
+  .progress-bar.color-bitcoin {
+    background: #EA983D; }
+    .progress-bar.color-bitcoin:after {
+      background: #EA983D; }
+    .progress-bar.color-bitcoin span {
+      color: #EA983D; }
+  .progress-bar.color-ethereum {
+    background: #8C8C8C; }
+    .progress-bar.color-ethereum:after {
+      background: #8C8C8C; }
+    .progress-bar.color-ethereum span {
+      color: #8C8C8C; }
+  .progress-bar.color-js {
+    background: #f1e05a; }
+    .progress-bar.color-js:after {
+      background: #f1e05a; }
+    .progress-bar.color-js span {
+      color: #f1e05a; }
+  .progress-bar.color-html {
+    background: #e34c26; }
+    .progress-bar.color-html:after {
+      background: #e34c26; }
+    .progress-bar.color-html span {
+      color: #e34c26; }
+  .progress-bar.color-css {
+    background: #563d7c; }
+    .progress-bar.color-css:after {
+      background: #563d7c; }
+    .progress-bar.color-css span {
+      color: #563d7c; }
+  .progress-bar.color-postgresql {
+    background: #40668D; }
+    .progress-bar.color-postgresql:after {
+      background: #40668D; }
+    .progress-bar.color-postgresql span {
+      color: #40668D; }
+  .progress-bar.color-python {
+    background: #3572A5; }
+    .progress-bar.color-python:after {
+      background: #3572A5; }
+    .progress-bar.color-python span {
+      color: #3572A5; }
+  .progress-bar.color-cpp {
+    background: #f34b7d; }
+    .progress-bar.color-cpp:after {
+      background: #f34b7d; }
+    .progress-bar.color-cpp span {
+      color: #f34b7d; }
 
 .colorlib-feature {
   text-align: left;

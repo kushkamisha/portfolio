@@ -3,8 +3,8 @@ import './App.css';
 import Aside from './components/aside'
 import Hero from './components/hero'
 import About from './components/about'
-import Services from './components/services'
-import PersonCounter from './components/person-counter'
+// import Services from './components/services'
+// import PersonCounter from './components/person-counter'
 import Skills from './components/skills'
 import Education from './components/education'
 import Experience from './components/experience'
@@ -18,13 +18,12 @@ function App() {
       <div id="colorlib-main">
         <Hero></Hero>
         <About></About>
-        <Services></Services>
-        <PersonCounter></PersonCounter>
+        {/* <PersonCounter></PersonCounter> */}
         <Skills></Skills>
-        {/* <Education></Education>
-        <Experience></Experience>
-        <Projects></Projects> */}
-        {/* <Contact></Contact> */}
+        <Education></Education>
+        <Experience></Experience> 
+        <Projects></Projects>
+        <Contact></Contact>
       </div>
     </div>
   );

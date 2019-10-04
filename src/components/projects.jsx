@@ -7,77 +7,74 @@ export default class Projects extends Component {
                 <div className="colorlib-narrow-content">
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-md-pull-3" data-animate-effect="fadeInLeft">
-                            <span className="heading-meta">My Work</span>
+                            <span className="heading-meta">My Projects</span>
                             <h2 className="colorlib-heading">Recent Work</h2>
                         </div>
                     </div>
-                    <div className="row row-bottom-padded-sm" data-animate-effect="fadeInLeft">
+                    {/* <div className="row row-bottom-padded-sm" data-animate-effect="fadeInLeft">
                         <div className="col-md-12">
                             <p className="work-menu"><span><a href="#" className="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span> <span><a href="#">Apps</a></span></p>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="row">
                         <div className="col-md-6" data-animate-effect="fadeInLeft">
-                            <div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
+                            <div className="project" style={{ backgroundImage: 'url(images/dex.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="work.html">Work 01</a></h3>
-                                        <span>Website</span>
+                                        <h3><a href="work.html">DEX+</a></h3>
+                                        <span>Decentralized exchange platform for ERC721 - Ethereum - ERC20 exchanges ruled by several smart contracts.</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="https://github.com/kushkamisha/DEXplus" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
+                                            {/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInRight">
-                            <div className="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }}>
+                            <div className="project" style={{ backgroundImage: 'url(images/beaver.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="work.html">Work 02</a></h3>
-                                        <span>Animation</span>
+                                        <h3><a href="work.html">BitWallet</a></h3>
+                                        <span>
+                                            Bitcoin wallet for IOS and Android. Here my part was developing Node.JS API for the wallet.<br></br>
+                                            P.S. And beaver logo is also mine:)
+                                        </span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="https://github.com/kushkamisha/bitcoin-wallet" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInTop">
-                            <div className="project" style={{ backgroundImage: 'url(images/img-3.jpg)' }}>
+                            <div className="project" style={{ backgroundImage: 'url(images/betting.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="work.html">Work 03</a></h3>
-                                        <span>Illustration</span>
+                                        <h3><a href="work.html">BottleNeck</a></h3>
+                                        <span>Betting service on Ethereum blockchain to ensure 100% reliability. Agreement process is based on Deligated Proof Of Stake (DPOS).</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="https://github.com/kushkamisha/bottleneck" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInBottom">
-                            <div className="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }}>
+                            <div className="project" style={{ backgroundImage: 'url(images/TeensyBarker.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="work.html">Work 04</a></h3>
-                                        <span>Application</span>
+                                        <h3><a href="work.html">Teensy-Barker</a></h3>
+                                        <span>Utility for parsing restaurant web pages for searching and downloading any menu files.</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="https://github.com/kushkamisha/Teensy-Barker" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6" data-animate-effect="fadeInLeft">
+                        {/* <div className="col-md-6" data-animate-effect="fadeInLeft">
                             <div className="project" style={{ backgroundImage: 'url(images/img-5.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
@@ -106,11 +103,11 @@ export default class Projects extends Component {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="row">
                         <div className="col-md-12">
-                            <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+                            <p><a href="https://github.com/kushkamisha?tab=repositories" rel="noopener noreferrer" target="_blank" className="btn btn-primary btn-lg btn-load-more">Show me more <i className="fi fi-angle-dobule-right" /></a></p>
                         </div>
                     </div>
                 </div>

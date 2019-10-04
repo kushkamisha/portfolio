@@ -20,8 +20,8 @@ export default class Experience extends Component {
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
-                                            <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-                                            <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                                            <h2><a href="http://1studioviz.com">Full Stack Developer at Family Nest</a> <span>06/2015–09/2015</span></h2>
+                                            {/* <p>...</p> */}
                                         </div>
                                     </div>
                                 </article>
@@ -31,8 +31,8 @@ export default class Experience extends Component {
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
-                                            <h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-                                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                            <h2><a href="/">Bitcoin Blockchain Developer freelance</a> <span>09/2016–10/2016</span></h2>
+                                            {/* <p>...</p> */}
                                         </div>
                                     </div>
                                 </article>
@@ -42,8 +42,8 @@ export default class Experience extends Component {
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
-                                            <h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-                                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                            <h2><a href="/">Web Developer / Blockchain Developer at BitRent</a> <span>10/2017–05/2018</span></h2>
+                                            {/* <p>...</p> */}
                                         </div>
                                     </div>
                                 </article>
@@ -53,19 +53,8 @@ export default class Experience extends Component {
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
-                                            <h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-                                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                        </div>
-                                    </div>
-                                </article>
-                                <article className="timeline-entry" data-animate-effect="fadeInLeft">
-                                    <div className="timeline-entry-inner">
-                                        <div className="timeline-icon color-5">
-                                            <i className="icon-pen2" />
-                                        </div>
-                                        <div className="timeline-label">
-                                            <h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-                                            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                                            <h2><a href="/">Ethereum Blockchain developer at Bank4You</a> <span>11/2017–08/2018</span></h2>
+                                            {/* <p>...</p> */}
                                         </div>
                                     </div>
                                 </article>
