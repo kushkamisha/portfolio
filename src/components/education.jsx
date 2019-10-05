@@ -24,7 +24,7 @@ export default class Education extends Component {
                                         <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                             <div className="panel-body">
                                                 <p>
-                                                    National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”, Kyiv, Ukraine<br></br>
+                                                    Student and a headman in National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine<br></br>
                                                     <b>Faculty:</b> FICT<br></br>
                                                     <b>Specialization:</b> software engineering
                                                 </p>

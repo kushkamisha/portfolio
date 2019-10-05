@@ -15,7 +15,7 @@ export default class Hero extends Component {
                                             <div className="desc">
                                                 <h1 style={{ color: 'white' }}>Hi! <br />I'm Misha</h1>
                                                 <h2 style={{color: 'white'}}>Blockchain developer located in Kyiv, Ukraine</h2>
-                                                <p><a className="btn btn-primary btn-learn" href="files/Misha Kushka.pdf" rel="noopener noreferrer" target="_blank">Download CV <i className="icon-download4" /></a></p>
+                                                {/* <p><a className="btn btn-primary btn-learn" href="files/Misha Kushka.pdf" rel="noopener noreferrer" target="_blank">Download CV <i className="icon-download4" /></a></p> */}
                                             </div>
                                         </div>
                                     </div>
