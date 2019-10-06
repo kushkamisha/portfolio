@@ -31,7 +31,7 @@ export default class Experience extends Component {
                                             <i className="icon-pen2" />
                                         </div>
                                         <div className="timeline-label">
-                                            <h2><a href="/">Bitcoin Blockchain Developer freelance</a> <span>09/2016–10/2016</span></h2>
+                                            <h2><a href="/">Freelance Bitcoin Blockchain Developer</a> <span>09/2016–10/2016</span></h2>
                                             {/* <p>...</p> */}
                                         </div>
                                     </div>
