@@ -24,9 +24,9 @@ export default class Education extends Component {
                                         <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                             <div className="panel-body">
                                                 <p>
-                                                    Student and a headman in National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine<br></br>
+                                                    I'm a fourth-year student and a group leader at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute" located in Kyiv, Ukraine. My future specialty is Software Engineering.<br></br>
                                                     <b>Faculty:</b> FICT<br></br>
-                                                    <b>Specialization:</b> software engineering
+                                                    <b>Specialization:</b> Software Engineering
                                                 </p>
                                             </div>
                                         </div>
@@ -51,7 +51,7 @@ export default class Education extends Component {
                                         </div>
                                         <div id="collapseThree" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                             <div className="panel-body">
-                                                <p>I was a Team leader of the Youth committee in the U-Report project launched by UNICEF from 03/2017 to 08/2017.</p>
+                                                <p>I was a Team leader of the Youth Committee in the U-Report project launched by UNICEF from 03/2017 to 08/2017.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -63,7 +63,7 @@ export default class Education extends Component {
                                         </div>
                                         <div id="collapseFour" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                                             <div className="panel-body">
-                                                <p>I was volunteering in one of the UNICEF projects called U-Report from 05/2016 to 08/2017.</p>
+                                                <p>I was a volunteer in one of the UNICEF projects called U-Report from 05/2016 to 08/2017.</p>
                                             </div>
                                         </div>
                                     </div>

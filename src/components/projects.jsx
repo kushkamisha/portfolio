@@ -22,7 +22,7 @@ export default class Projects extends Component {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a href="work.html">DEX+</a></h3>
-                                        <span>Decentralized exchange platform for ERC721 - Ethereum - ERC20 exchanges ruled by several smart contracts.</span>
+                                        <span>A decentralized exchange platform for ERC721 - Ethereum - ERC20 exchanges managed by several smart contracts.</span>
                                         <p className="icon">
                                             <span><a href="https://github.com/kushkamisha/DEXplus" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                             {/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -38,8 +38,8 @@ export default class Projects extends Component {
                                     <div className="con">
                                         <h3><a href="work.html">BitWallet</a></h3>
                                         <span>
-                                            Bitcoin wallet for IOS and Android. Here my part was developing Node.JS API for the wallet.<br></br>
-                                            P.S. And beaver logo is also mine:)
+                                            A Bitcoin wallet for IOS and Android. In this project, I was developing a Node.JS API for the wallet.<br></br>
+                                            P.S. A beaver logo is also mine:)
                                         </span>
                                         <p className="icon">
                                             <span><a href="https://github.com/kushkamisha/bitcoin-wallet" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
@@ -53,7 +53,7 @@ export default class Projects extends Component {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a href="work.html">BottleNeck</a></h3>
-                                        <span>Betting service on Ethereum blockchain to ensure 100% reliability. Agreement process is based on Deligated Proof Of Stake (DPOS).</span>
+                                        <span>A betting service on Ethereum blockchain to ensure 100% reliability. The agreement process is based on the Delegated Proof Of Stake (DPOS).</span>
                                         <p className="icon">
                                             <span><a href="https://github.com/kushkamisha/bottleneck" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                         </p>
@@ -66,7 +66,7 @@ export default class Projects extends Component {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a href="work.html">Teensy-Barker</a></h3>
-                                        <span>Utility for parsing restaurant web pages for searching and downloading any menu files.</span>
+                                        <span>A utility for parsing restaurant web pages for searching and downloading any menu files from them.</span>
                                         <p className="icon">
                                             <span><a href="https://github.com/kushkamisha/Teensy-Barker" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                         </p>

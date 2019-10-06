@@ -12,7 +12,7 @@ export default class About extends Component {
                                     <div className="about-desc">
                                         <span className="heading-meta">About Me</span>
                                         <h2 className="colorlib-heading">Who Am I?</h2>
-                                        <p><strong>I'm Misha Kushka </strong>Enthusiastic Blockchain developer with 1-year experience in this field. Currently, I'm a fourth-grade student at the KPI University in Kyiv studying as a software Engineer.</p>
+                                        <p><strong>I'm Misha Kushka </strong>Enthusiastic Blockchain developer with 1-year experience in this field. Currently, I'm a fourth-year student of the Igor Sikorsky Kyiv Polytechnic Institute in Kyiv, and my specialty is Software Engineering.</p>
                                         {/* <p></p> */}
                                     </div>
                                 </div>
@@ -25,7 +25,7 @@ export default class About extends Component {
                                         </span>
                                         <div className="desc">
                                             <h3>Blockchain</h3>
-                                            <p>I like to play around with blockchain technology. Know how Bitcoin works under the hood, different types of consensus, such as PoW, PoS, DPoS.</p>
+                                            <p>I like to play around with blockchain technology. I know how Bitcoin works under the hood along with different types of consensus, such as PoW, PoS, DPoS.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -58,7 +58,7 @@ export default class About extends Component {
                                         </span>
                                         <div className="desc">
                                             <h3>Databases</h3>
-                                            <p>I have work experience in both SQL (PostgreSQL, MariaDB) and NoSQL (MongoDB) databases. Have some experience in designing databases for assigned tasks.</p>
+                                            <p>I have work experience in both SQL (PostgreSQL, MariaDB) and NoSQL (MongoDB) databases. I also have skills in designing databases.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -69,7 +69,7 @@ export default class About extends Component {
                                         </span>
                                         <div className="desc">
                                             <h3>Linux</h3>
-                                            <p>I can work in the bash command line to develop, deploy, or monitor applications on a local computer or server.</p>
+                                            <p>I can work in the bash command line to develop, deploy, or monitor applications on a local computer or a server.</p>
                                         </div>
                                     </div>
                                 </div>
