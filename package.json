@@ -2,12 +2,11 @@
   "name": "portfolio",
   "version": "1.0.1",
   "private": true,
-  "homepage": "https: //kushkamisha.github.io/portfolio",
   "dependencies": {
-    "gh-pages": "^2.1.1",
-    "react": "^16.10.0",
-    "react-dom": "^16.10.0",
-    "react-scripts": "3.1.2"
+    "gh-pages": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",

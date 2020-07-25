@@ -37,25 +37,15 @@ export default class Skills extends Component {
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
-                                <h3>Bitcoin Blockchain</h3>
+                                <h3>Python</h3>
                                 <div className="progress">
-                                    <div className="progress-bar color-bitcoin" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
-                                        <span>90%</span>
+                                    <div className="progress-bar color-python" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{ width: '85%' }}>
+                                        <span>85%</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInRight">
-                            <div className="progress-wrap">
-                                <h3>Ethereum Blockchain</h3>
-                                <div className="progress">
-                                    <div className="progress-bar color-ethereum" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
-                                        <span>90%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
                                 <h3>JavaScript</h3>
                                 <div className="progress">
@@ -67,6 +57,36 @@ export default class Skills extends Component {
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
+                                <h3>PostgreSQL</h3>
+                                <div className="progress">
+                                    <div className="progress-bar color-postgresql" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
+                                        <span>90%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-6" data-animate-effect="fadeInRight">
+                            <div className="progress-wrap">
+                                <h3>CSS3</h3>
+                                <div className="progress">
+                                    <div className="progress-bar color-css" role="progressbar" aria-valuenow={65} aria-valuemin={0} aria-valuemax={100} style={{ width: '65%' }}>
+                                        <span>65%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-6" data-animate-effect="fadeInLeft">
+                            <div className="progress-wrap">
+                                <h3>Bitcoin Blockchain</h3>
+                                <div className="progress">
+                                    <div className="progress-bar color-bitcoin" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
+                                        <span>90%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-6" data-animate-effect="fadeInRight">
+                            <div className="progress-wrap">
                                 <h3>HTML</h3>
                                 <div className="progress">
                                     <div className="progress-bar color-html" role="progressbar" aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} style={{ width: '75%' }}>
@@ -77,30 +97,10 @@ export default class Skills extends Component {
                         </div>
                         <div className="col-md-6" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
-                                <h3>CSS3</h3>
+                                <h3>Ethereum Blockchain</h3>
                                 <div className="progress">
-                                    <div className="progress-bar color-css" role="progressbar" aria-valuenow={65} aria-valuemin={0} aria-valuemax={100} style={{ width: '65%' }}>
-                                        <span>65%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6" data-animate-effect="fadeInRight">
-                            <div className="progress-wrap">
-                                <h3>PostgreSQL</h3>
-                                <div className="progress">
-                                    <div className="progress-bar color-postgresql" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{ width: '85%' }}>
-                                        <span>85%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6" data-animate-effect="fadeInLeft">
-                            <div className="progress-wrap">
-                                <h3>Python</h3>
-                                <div className="progress">
-                                    <div className="progress-bar color-python" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{ width: '70%' }}>
-                                        <span>70%</span>
+                                    <div className="progress-bar color-ethereum" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
+                                        <span>90%</span>
                                     </div>
                                 </div>
                             </div>

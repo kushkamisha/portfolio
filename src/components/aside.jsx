@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react'
 
 export default class Aside extends Component {
@@ -9,7 +10,7 @@ export default class Aside extends Component {
                   <div className="text-center">
                       <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
                       <h1 id="colorlib-logo"><a href="index.html">Misha Kushka</a></h1>
-                      <span className="position">Blockchain developer | Ukraine</span>
+                      <span className="position">Kyiv, Ukraine</span>
                   </div>
                   <nav id="colorlib-main-menu" role="navigation" className="navbar">
                       <div id="navbar" className="collapse">
@@ -28,7 +29,7 @@ export default class Aside extends Component {
                   </nav>
                   <div className="colorlib-footer">
                       <p><small>© {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                          Copyright © All rights reserved | This template is made with <i className="icon-heart" aria-hidden="true" /> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                          Copyright © All rights reserved | This template is made with <i className="icon-heart" aria-hidden="true" /> by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>
                           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}</small></p>
                       <ul>
                           <li><a href="https://github.com/kushkamisha" rel="noopener noreferrer" target="_blank"><i className="big icon-github"></i></a></li>
