@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "%20//kushkamisha.github.io/portfolio/static/css/main.b100e6da.chunk.css",
-    "main.js": "%20//kushkamisha.github.io/portfolio/static/js/main.10fd0c44.chunk.js",
-    "main.js.map": "%20//kushkamisha.github.io/portfolio/static/js/main.10fd0c44.chunk.js.map",
-    "runtime-main.js": "%20//kushkamisha.github.io/portfolio/static/js/runtime-main.20397642.js",
-    "runtime-main.js.map": "%20//kushkamisha.github.io/portfolio/static/js/runtime-main.20397642.js.map",
-    "static/js/2.052b2ea6.chunk.js": "%20//kushkamisha.github.io/portfolio/static/js/2.052b2ea6.chunk.js",
-    "static/js/2.052b2ea6.chunk.js.map": "%20//kushkamisha.github.io/portfolio/static/js/2.052b2ea6.chunk.js.map",
-    "index.html": "%20//kushkamisha.github.io/portfolio/index.html",
-    "precache-manifest.62a0923d2aa2384c9e76513be6bcedc5.js": "%20//kushkamisha.github.io/portfolio/precache-manifest.62a0923d2aa2384c9e76513be6bcedc5.js",
-    "service-worker.js": "%20//kushkamisha.github.io/portfolio/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "%20//kushkamisha.github.io/portfolio/static/css/main.b100e6da.chunk.css.map"
-  }
+    "main.css": "/%20//kushkamisha.github.io/portfolio/static/css/main.b100e6da.chunk.css",
+    "main.js": "/%20//kushkamisha.github.io/portfolio/static/js/main.92c3d2c1.chunk.js",
+    "main.js.map": "/%20//kushkamisha.github.io/portfolio/static/js/main.92c3d2c1.chunk.js.map",
+    "runtime-main.js": "/%20//kushkamisha.github.io/portfolio/static/js/runtime-main.158358c6.js",
+    "runtime-main.js.map": "/%20//kushkamisha.github.io/portfolio/static/js/runtime-main.158358c6.js.map",
+    "static/js/2.8f18329a.chunk.js": "/%20//kushkamisha.github.io/portfolio/static/js/2.8f18329a.chunk.js",
+    "static/js/2.8f18329a.chunk.js.map": "/%20//kushkamisha.github.io/portfolio/static/js/2.8f18329a.chunk.js.map",
+    "index.html": "/%20//kushkamisha.github.io/portfolio/index.html",
+    "precache-manifest.c11ef1610c8f26f86cf53a0422db71f9.js": "/%20//kushkamisha.github.io/portfolio/precache-manifest.c11ef1610c8f26f86cf53a0422db71f9.js",
+    "service-worker.js": "/%20//kushkamisha.github.io/portfolio/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/%20//kushkamisha.github.io/portfolio/static/css/main.b100e6da.chunk.css.map",
+    "static/js/2.8f18329a.chunk.js.LICENSE.txt": "/%20//kushkamisha.github.io/portfolio/static/js/2.8f18329a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.158358c6.js",
+    "static/js/2.8f18329a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.92c3d2c1.chunk.js"
+  ]
 }
