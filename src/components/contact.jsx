@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react'
 
 export default class Contact extends Component {
@@ -18,7 +19,7 @@ export default class Contact extends Component {
                                     <i className="icon-globe-outline" />
                                 </div>
                                 <div className="colorlib-text">
-                                    <p><a href="#">kushka.misha@gmail.com</a></p>
+                                    <p><a href="mailto:kushkamisha@yahoo.com">kushkamisha@yahoo.com</a></p>
                                 </div>
                             </div>
                             {/* <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
