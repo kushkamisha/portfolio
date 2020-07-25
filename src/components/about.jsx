@@ -12,12 +12,45 @@ export default class About extends Component {
                                     <div className="about-desc">
                                         <span className="heading-meta">About Me</span>
                                         <h2 className="colorlib-heading">Who Am I?</h2>
-                                        <p><strong>I'm Misha Kushka</strong>, formerly a blockchain developer, but decided to change a domain due to my growing interest in machine learning and data science. This year I've graduated from the Igor Sikorsky Kyiv Polytechnic Institute with a Bachelor's degree and received a diploma with honors; my specialty was Software Engineering.</p>
+                                        <p><strong>I'm Misha Kushka </strong>Enthusiastic Blockchain developer with 1-year experience in this field. Currently, I'm a fourth-year student of the Igor Sikorsky Kyiv Polytechnic Institute in Kyiv, and my specialty is Software Engineering.</p>
                                         {/* <p></p> */}
                                     </div>
                                 </div>
                             </div>
                             <div className="row row-pt-md">
+                                <div className="col-md-4 text-center">
+                                    <div className="services long color-1">
+                                        <span className="icon">
+                                            <i className="fi fi-bitcoin" />
+                                        </span>
+                                        <div className="desc">
+                                            <h3>Blockchain</h3>
+                                            <p>I like to play around with blockchain technology. I know how Bitcoin works under the hood along with different types of consensus, such as PoW, PoS, DPoS.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 text-center">
+                                    <div className="services long color-2">
+                                        <span className="icon">
+                                            <i className="fi fi-file-1" />
+                                        </span>
+                                        <div className="desc">
+                                            <h3>Smart Contracts</h3>
+                                            <p>I've developed various smart contracts created from scratch on Ethereum blockchain.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-4 text-center">
+                                    <div className="services long color-3">
+                                        <span className="icon">
+                                            <img src="images/coin.png" style={{ margin: '7px', width: '36px'}} alt="coin" />
+                                        </span>
+                                        <div className="desc">
+                                            <h3>Tokens</h3>
+                                            <p>I created several types of tokens (ERC20 and ERC721).</p>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div className="col-md-4 text-center">
                                     <div className="services long color-4">
                                         <span className="icon">
@@ -48,39 +81,6 @@ export default class About extends Component {
                                         <div className="desc">
                                             <h3>Web Development</h3>
                                             <p>I have some experience in creating full-stack applications on Node.JS and JS.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-md-4 text-center">
-                                    <div className="services long color-1">
-                                        <span className="icon">
-                                            <i className="fi fi-bitcoin" />
-                                        </span>
-                                        <div className="desc">
-                                            <h3>Blockchain</h3>
-                                            <p>I like to play around with blockchain technology. I know how Bitcoin works under the hood along with different types of consensus, such as PoW, PoS, DPoS.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-md-4 text-center">
-                                    <div className="services long color-2">
-                                        <span className="icon">
-                                            <i className="fi fi-file-1" />
-                                        </span>
-                                        <div className="desc">
-                                            <h3>Smart Contracts</h3>
-                                            <p>I've developed various smart contracts created from scratch for Ethereum blockchain.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-md-4 text-center">
-                                    <div className="services long color-3">
-                                        <span className="icon">
-                                            <img src="images/coin.png" style={{ margin: '7px', width: '36px' }} alt="coin" />
-                                        </span>
-                                        <div className="desc">
-                                            <h3>Tokens</h3>
-                                            <p>I created several types of tokens (ERC20 and ERC721).</p>
                                         </div>
                                     </div>
                                 </div>

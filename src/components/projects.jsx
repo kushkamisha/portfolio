@@ -18,13 +18,13 @@ export default class Projects extends Component {
                     </div> */}
                     <div className="row">
                         <div className="col-md-6" data-animate-effect="fadeInLeft">
-                            <div className="project" style={{ backgroundImage: 'url(images/crypto-chat.png)' }}>
+                            <div className="project" style={{ backgroundImage: 'url(images/dex.jpg)' }}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a href="work.html">Crypto Chat</a></h3>
-                                        <span>Messenger that utilizes Blockchain technology to create trustless consultancy service. The API is written on Node.JS, and the iPadOS app uses Swift as a programming language. This is my final project to graduate from university.</span>
+                                        <h3><a href="work.html">DEX+</a></h3>
+                                        <span>A decentralized exchange platform for ERC721 - Ethereum - ERC20 exchanges managed by several smart contracts.</span>
                                         <p className="icon">
-                                            <span><a href="https://github.com/kushkamisha/CryptoChat" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
+                                            <span><a href="https://github.com/kushkamisha/DEXplus" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
                                             {/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
                                             <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
                                         </p>
@@ -43,36 +43,6 @@ export default class Projects extends Component {
                                         </span>
                                         <p className="icon">
                                             <span><a href="https://github.com/kushkamisha/bitcoin-wallet" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6" data-animate-effect="fadeInLeft">
-                            <div className="project" style={{ backgroundImage: 'url(images/dex.jpg)' }}>
-                                <div className="desc">
-                                    <div className="con">
-                                        <h3><a href="work.html">DEX+</a></h3>
-                                        <span>A decentralized exchange platform for ERC721 - Ethereum - ERC20 exchanges managed by several smart contracts.</span>
-                                        <p className="icon">
-                                            <span><a href="https://github.com/kushkamisha/DEXplus" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
-                                            {/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6" data-animate-effect="fadeInRight">
-                            <div className="project" style={{ backgroundImage: 'url(images/space-game.png)' }}>
-                                <div className="desc">
-                                    <div className="con">
-                                        <h3><a href="work.html">Space Game</a></h3>
-                                        <span>A desktop "old school" game written on Python in which you pilot a spaceship and try to get through asteroids destroying as much as you can...</span>
-                                        <p className="icon">
-                                            <span><a href="https://github.com/kushkamisha/Space-game" rel="noopener noreferrer" target="_blank"><i className="fi fi-github" /></a></span>
-                                            {/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
                                         </p>
                                     </div>
                                 </div>
