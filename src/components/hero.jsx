@@ -14,8 +14,8 @@ export default class Hero extends Component {
                                         <div className="slider-text-inner js-fullheight">
                                             <div className="desc">
                                                 <h1 style={{ color: 'white' }}>Hi! <br />I'm Misha</h1>
-                                                <h2 style={{ color: 'white' }}>Previously Blockchain developer, now keen to start a<br></br> career as a <b>Data Scientist or ML Practitioner</b><br></br> in Kyiv, Ukraine</h2>
-                                                {/* <p><a className="btn btn-primary btn-learn" href="files/Misha Kushka.pdf" rel="noopener noreferrer" target="_blank">Download CV <i className="icon-download4" /></a></p> */}
+                                                <h2 style={{ color: 'white' }}>Blockchain developer from Kyiv, Ukraine</h2>
+                                                <p><a className="btn btn-primary btn-learn" href="files/Misha Kushka.pdf" rel="noopener noreferrer" target="_blank">Download CV <i className="icon-download4" /></a></p>
                                             </div>
                                         </div>
                                     </div>

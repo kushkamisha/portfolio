@@ -16,12 +16,20 @@ export default class Contact extends Component {
                         <div className="col-md-5">
                             <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
+                                    <i className="icon-social-linkedin" />
+                                </div>
+                                <div className="colorlib-text">
+                                    <p><a href="https://www.linkedin.com/in/misha-kushka-60787312b" target="_blank" rel="noopener noreferrer">Misha Kushka</a></p>
+                                </div>
+                            </div>
+                            {/* <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
+                                <div className="colorlib-icon">
                                     <i className="icon-globe-outline" />
                                 </div>
                                 <div className="colorlib-text">
                                     <p><a href="mailto:kushkamisha@yahoo.com">kushkamisha@yahoo.com</a></p>
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div className="colorlib-feature colorlib-feature-sm" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
                                     <i className="icon-map" />

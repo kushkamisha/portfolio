@@ -29,8 +29,8 @@ export default class Skills extends Component {
                             <div className="progress-wrap">
                                 <h3>Solidity</h3>
                                 <div className="progress">
-                                    <div className="progress-bar color-solidity" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{ width: '70%' }}>
-                                        <span>70%</span>
+                                    <div className="progress-bar color-solidity" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
+                                        <span>90%</span>
                                     </div>
                                 </div>
                             </div>
@@ -79,8 +79,8 @@ export default class Skills extends Component {
                             <div className="progress-wrap">
                                 <h3>Bitcoin Blockchain</h3>
                                 <div className="progress">
-                                    <div className="progress-bar color-bitcoin" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{ width: '90%' }}>
-                                        <span>90%</span>
+                                    <div className="progress-bar color-bitcoin" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{ width: '80%' }}>
+                                        <span>80%</span>
                                     </div>
                                 </div>
                             </div>

@@ -10,7 +10,7 @@ export default class Aside extends Component {
                   <div className="text-center">
                       <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
                       <h1 id="colorlib-logo"><a href="index.html">Misha Kushka</a></h1>
-                      <span className="position">Kyiv, Ukraine</span>
+                      <span className="position">Blockchain developer | Ukraine</span>
                   </div>
                   <nav id="colorlib-main-menu" role="navigation" className="navbar">
                       <div id="navbar" className="collapse">

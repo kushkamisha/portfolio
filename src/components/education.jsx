@@ -16,12 +16,28 @@ export default class Education extends Component {
                             <div className="fancy-collapse-panel">
                                 <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                     <div className="panel panel-default">
-                                        <div className="panel-heading" role="tab" id="headingOne">
+                                        <div className="panel-heading" role="tab" id="headingZero">
                                             <h4 className="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor at Software Engineering</a>
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseZero" aria-expanded="true" aria-controls="collapseZero">Working towards Master's degree</a>
                                             </h4>
                                         </div>
-                                        <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                                        <div id="collapseZero" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingZero">
+                                            <div className="panel-body">
+                                                <p>
+                                                    Student for Master's degree at the National University of "Kyiv-Mohyla Academy" in Kyiv, Ukraine<br></br>
+                                                    <b>Faculty:</b> Faculty of Informatics<br></br>
+                                                    <b>Specialization:</b> Software Engineering
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="panel panel-default">
+                                        <div className="panel-heading" role="tab" id="headingOne">
+                                            <h4 className="panel-title">
+                                                <a className="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor at Software Engineering</a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseOne" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                                             <div className="panel-body">
                                                 <p>
                                                     In 2020 graduated from the Igor Sikorsky Kyiv Polytechnic Institute with a Bachelor's degree and received a diploma with honors<br></br>

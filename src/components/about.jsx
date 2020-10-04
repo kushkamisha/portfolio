@@ -12,7 +12,7 @@ export default class About extends Component {
                                     <div className="about-desc">
                                         <span className="heading-meta">About Me</span>
                                         <h2 className="colorlib-heading">Who Am I?</h2>
-                                        <p><strong>I'm Misha Kushka</strong>, formerly a blockchain developer, but decided to change a domain due to my growing interest in machine learning and data science. This year I've graduated from the Igor Sikorsky Kyiv Polytechnic Institute with a Bachelor's degree and received a diploma with honors; my specialty was Software Engineering.</p>
+                                        <p><strong>I'm Misha Kushka</strong> – an enthusiastic Blockchain developer. Currently working towards my Master's degree in Software Engineering at the National University of "Kyiv-Mohyla Academy" in Kyiv, Ukraine</p>
                                         {/* <p></p> */}
                                     </div>
                                 </div>
